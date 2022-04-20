@@ -53,7 +53,7 @@ pstart_markup = InlineKeyboardMarkup(
             InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅ ​📚", url="https://telegra.ph/SKYLA-ROBOT-COMMANDS-01-25"),
         ],
         [
-            InlineKeyboardButton("🌐 sᴏᴜʀᴄᴇ ᴋᴏᴅᴇ 🌐", url="https://github.com/SkylaIND/SkylaMusic"),
+            InlineKeyboardButton("✴️ᴏᴡɴᴇʀ✴️", url="https://t.me/apcayng"),
         ],
     ]
 )
